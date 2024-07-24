@@ -7,7 +7,7 @@
 
 ### Components
 
-> This dir contains components that will be used in pages.
+> This dir contains features/reusable components used in pages.
 
 ### Context
 
